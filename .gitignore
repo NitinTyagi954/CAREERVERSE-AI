@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Environment variables
+# Environment variables 
 .env
 .env.local
 .env.development.local
@@ -49,6 +49,6 @@ uploads/*
 *.cache
 .mongodb-memory-server/
 
-# Temporary files
+# Temporary files 
 *.tmp
 *.temp
