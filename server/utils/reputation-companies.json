@@ -1,0 +1,35 @@
+{
+  "well-known": [
+    "Google", "Microsoft", "Apple", "Amazon", "Meta", "Facebook", "Tesla", "Netflix",
+    "Adobe", "Salesforce", "Oracle", "IBM", "Intel", "NVIDIA", "AMD", "Cisco",
+    "TCS", "Infosys", "Wipro", "HCL", "Tech Mahindra", "Accenture", "Capgemini",
+    "Deloitte", "PwC", "EY", "KPMG", "McKinsey", "BCG", "Bain",
+    "Goldman Sachs", "JPMorgan", "Morgan Stanley", "Bank of America", "Wells Fargo",
+    "Uber", "Airbnb", "Spotify", "Twitter", "LinkedIn", "Snapchat", "TikTok",
+    "PayPal", "Stripe", "Square", "Shopify", "Zoom", "Slack", "Discord",
+    "GitHub", "GitLab", "Atlassian", "JetBrains", "VMware", "Red Hat",
+    "Samsung", "LG", "Sony", "Panasonic", "Canon", "Nikon", "HP", "Dell",
+    "Flipkart", "Amazon India", "Zomato", "Swiggy", "Ola", "Uber India",
+    "Paytm", "PhonePe", "Google Pay", "Razorpay", "CRED", "BharatPe",
+    "Byju's", "Unacademy", "Vedantu", "Toppr", "WhiteHat Jr",
+    "Reliance", "Tata", "Adani", "Mahindra", "Bajaj", "Hero", "Maruti",
+    "ICICI", "HDFC", "SBI", "Axis Bank", "Kotak Mahindra", "IndusInd",
+    "ITC", "Hindustan Unilever", "Nestle", "PepsiCo", "Coca-Cola",
+    "Marriott", "Taj Hotels", "Oberoi", "ITC Hotels", "Hyatt",
+    "Disney", "Warner Bros", "Sony Pictures", "Universal", "Paramount"
+  ],
+  "startup": [
+    "Razorpay", "CRED", "BharatPe", "PhonePe", "Zomato", "Swiggy",
+    "Ola", "Uber India", "Byju's", "Unacademy", "Vedantu", "WhiteHat Jr",
+    "Dream11", "Meesho", "Nykaa", "PolicyBazaar", "CarDekho", "MakeMyTrip",
+    "OYO", "Treebo", "FabHotels", "RedBus", "ClearTax", "Groww",
+    "Khatabook", "OkCredit", "JusPay", "Cashfree", "Instamojo",
+    "Freshworks", "Zoho", "Chargebee", "Postman", "BrowserStack",
+    "InMobi", "Glance", "ShareChat", "Dailyhunt", "Josh", "Roposo",
+    "Lenskart", "FirstCry", "Myntra", "Jabong", "Koovs", "Voonik",
+    "Urban Company", "HouseJoy", "TaskRabbit", "Dunzo", "Grofers",
+    "BigBasket", "Grofers", "Milkbasket", "Supr Daily", "Swiggy Instamart"
+  ]
+}
+
+

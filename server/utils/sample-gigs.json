@@ -1,0 +1,295 @@
+[
+  {
+    "title": "Data Entry Specialist - Excel Spreadsheets",
+    "category": "data-entry",
+    "description": "We need a detail-oriented individual to help with data entry tasks. You'll be working with Excel spreadsheets, entering customer information, and ensuring data accuracy. Basic Excel knowledge required.",
+    "payMin": 5000,
+    "payMax": 8000,
+    "payCurrency": "INR",
+    "payType": "fixed",
+    "durationWeeks": 2,
+    "difficulty": "beginner",
+    "source": "seed",
+    "tags": ["excel", "data entry", "spreadsheet", "typing", "accuracy"],
+    "requirements": {
+      "skills": ["Excel", "Data Entry", "Typing"],
+      "experience": "No experience required",
+      "portfolio": false,
+      "certification": false
+    },
+    "url": "https://www.upwork.com/jobs/",
+    "clientInfo": {
+      "name": "DataCorp Solutions",
+      "rating": 4.8,
+      "reviews": 156,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-15T00:00:00.000Z",
+    "expiresAt": "2024-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Content Writer - Technology Blog Posts",
+    "category": "content-writing",
+    "description": "Looking for a skilled content writer to create engaging blog posts about technology trends, software reviews, and industry insights. Must have strong writing skills and basic knowledge of tech topics.",
+    "payMin": 15000,
+    "payMax": 25000,
+    "payCurrency": "INR",
+    "payType": "per-word",
+    "durationWeeks": 4,
+    "difficulty": "intermediate",
+    "source": "seed",
+    "tags": ["content writing", "blogging", "technology", "seo", "research"],
+    "requirements": {
+      "skills": ["Content Writing", "SEO", "Research", "Technology"],
+      "experience": "1-2 years writing experience",
+      "portfolio": true,
+      "certification": false
+    },
+    "url": "https://www.fiverr.com/gigs/",
+    "clientInfo": {
+      "name": "TechBlog Media",
+      "rating": 4.9,
+      "reviews": 89,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-14T00:00:00.000Z",
+    "expiresAt": "2024-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "Logo Design - Modern Tech Startup",
+    "category": "graphic-design",
+    "description": "We need a creative logo design for our new tech startup. Looking for a modern, minimalist design that represents innovation and technology. Must be original and scalable.",
+    "payMin": 8000,
+    "payMax": 15000,
+    "payCurrency": "INR",
+    "payType": "fixed",
+    "durationWeeks": 1,
+    "difficulty": "intermediate",
+    "source": "seed",
+    "tags": ["logo design", "graphic design", "illustrator", "photoshop", "branding"],
+    "requirements": {
+      "skills": ["Adobe Illustrator", "Photoshop", "Logo Design", "Branding"],
+      "experience": "2+ years design experience",
+      "portfolio": true,
+      "certification": false
+    },
+    "url": "https://www.freelancer.com/projects/",
+    "clientInfo": {
+      "name": "StartupCo",
+      "rating": 4.7,
+      "reviews": 23,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-13T00:00:00.000Z",
+    "expiresAt": "2024-01-27T00:00:00.000Z"
+  },
+  {
+    "title": "React Native Mobile App Development",
+    "category": "mobile-development",
+    "description": "We need a React Native developer to build a cross-platform mobile app for iOS and Android. The app will have user authentication, data synchronization, and offline capabilities.",
+    "payMin": 50000,
+    "payMax": 80000,
+    "payCurrency": "INR",
+    "payType": "fixed",
+    "durationWeeks": 8,
+    "difficulty": "advanced",
+    "source": "seed",
+    "tags": ["react native", "mobile development", "javascript", "ios", "android", "firebase"],
+    "requirements": {
+      "skills": ["React Native", "JavaScript", "Firebase", "Mobile Development"],
+      "experience": "3+ years mobile development",
+      "portfolio": true,
+      "certification": false
+    },
+    "url": "https://www.upwork.com/jobs/",
+    "clientInfo": {
+      "name": "MobileFirst Inc",
+      "rating": 4.9,
+      "reviews": 67,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-12T00:00:00.000Z",
+    "expiresAt": "2024-03-09T00:00:00.000Z"
+  },
+  {
+    "title": "AI Training Data Annotation",
+    "category": "ai-training",
+    "description": "We need help annotating images for machine learning training. You'll be labeling objects, faces, and scenes in images to help train our AI models. No technical background required.",
+    "payMin": 3000,
+    "payMax": 5000,
+    "payCurrency": "INR",
+    "payType": "per-task",
+    "durationWeeks": 6,
+    "difficulty": "beginner",
+    "source": "seed",
+    "tags": ["ai training", "data annotation", "image labeling", "machine learning"],
+    "requirements": {
+      "skills": ["Attention to Detail", "Image Annotation"],
+      "experience": "No experience required",
+      "portfolio": false,
+      "certification": false
+    },
+    "url": "https://www.freelancer.com/projects/",
+    "clientInfo": {
+      "name": "AI Solutions Ltd",
+      "rating": 4.6,
+      "reviews": 134,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-11T00:00:00.000Z",
+    "expiresAt": "2024-02-22T00:00:00.000Z"
+  },
+  {
+    "title": "Virtual Assistant - Social Media Management",
+    "category": "virtual-assistant",
+    "description": "Looking for a virtual assistant to manage our social media accounts. Tasks include posting content, responding to comments, scheduling posts, and basic analytics reporting.",
+    "payMin": 12000,
+    "payMax": 20000,
+    "payCurrency": "INR",
+    "payType": "hourly",
+    "durationWeeks": 4,
+    "difficulty": "beginner",
+    "source": "seed",
+    "tags": ["virtual assistant", "social media", "content management", "scheduling"],
+    "requirements": {
+      "skills": ["Social Media Management", "Content Creation", "Communication"],
+      "experience": "1 year social media experience",
+      "portfolio": false,
+      "certification": false
+    },
+    "url": "https://www.upwork.com/jobs/",
+    "clientInfo": {
+      "name": "SocialBoost Agency",
+      "rating": 4.8,
+      "reviews": 45,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-10T00:00:00.000Z",
+    "expiresAt": "2024-02-07T00:00:00.000Z"
+  },
+  {
+    "title": "Video Editing - YouTube Content",
+    "category": "video-editing",
+    "description": "We need a video editor to edit YouTube videos for our tech channel. Tasks include cutting, transitions, color correction, adding graphics, and optimizing for YouTube.",
+    "payMin": 20000,
+    "payMax": 35000,
+    "payCurrency": "INR",
+    "payType": "per-video",
+    "durationWeeks": 6,
+    "difficulty": "intermediate",
+    "source": "seed",
+    "tags": ["video editing", "youtube", "premiere pro", "after effects", "color correction"],
+    "requirements": {
+      "skills": ["Adobe Premiere Pro", "After Effects", "Video Editing", "YouTube"],
+      "experience": "2+ years video editing",
+      "portfolio": true,
+      "certification": false
+    },
+    "url": "https://www.fiverr.com/gigs/",
+    "clientInfo": {
+      "name": "TechTube Channel",
+      "rating": 4.9,
+      "reviews": 78,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-09T00:00:00.000Z",
+    "expiresAt": "2024-02-20T00:00:00.000Z"
+  },
+  {
+    "title": "Web Scraping - E-commerce Data",
+    "category": "web-development",
+    "description": "We need a web scraper to collect product information from e-commerce websites. Must be able to handle dynamic content, respect robots.txt, and provide clean structured data.",
+    "payMin": 25000,
+    "payMax": 40000,
+    "payCurrency": "INR",
+    "payType": "fixed",
+    "durationWeeks": 3,
+    "difficulty": "advanced",
+    "source": "seed",
+    "tags": ["web scraping", "python", "beautifulsoup", "selenium", "data extraction"],
+    "requirements": {
+      "skills": ["Python", "Web Scraping", "BeautifulSoup", "Selenium"],
+      "experience": "2+ years scraping experience",
+      "portfolio": true,
+      "certification": false
+    },
+    "url": "https://www.freelancer.com/projects/",
+    "clientInfo": {
+      "name": "DataMining Corp",
+      "rating": 4.7,
+      "reviews": 92,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-08T00:00:00.000Z",
+    "expiresAt": "2024-01-29T00:00:00.000Z"
+  },
+  {
+    "title": "Transcription Services - Audio to Text",
+    "category": "transcription",
+    "description": "We need accurate transcription services for audio recordings. Content includes interviews, meetings, and educational content. Must have excellent English language skills and attention to detail.",
+    "payMin": 4000,
+    "payMax": 7000,
+    "payCurrency": "INR",
+    "payType": "per-hour",
+    "durationWeeks": 2,
+    "difficulty": "beginner",
+    "source": "seed",
+    "tags": ["transcription", "audio", "typing", "english", "accuracy"],
+    "requirements": {
+      "skills": ["Transcription", "Typing", "English", "Audio Processing"],
+      "experience": "No experience required",
+      "portfolio": false,
+      "certification": false
+    },
+    "url": "https://www.upwork.com/jobs/",
+    "clientInfo": {
+      "name": "AudioText Solutions",
+      "rating": 4.8,
+      "reviews": 156,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-07T00:00:00.000Z",
+    "expiresAt": "2024-01-21T00:00:00.000Z"
+  },
+  {
+    "title": "Market Research - Tech Industry Analysis",
+    "category": "research",
+    "description": "We need a researcher to analyze the tech industry market trends, competitor analysis, and provide insights for our business strategy. Must have strong analytical skills and access to research tools.",
+    "payMin": 30000,
+    "payMax": 50000,
+    "payCurrency": "INR",
+    "payType": "fixed",
+    "durationWeeks": 4,
+    "difficulty": "advanced",
+    "source": "seed",
+    "tags": ["market research", "analysis", "tech industry", "competitor analysis", "strategy"],
+    "requirements": {
+      "skills": ["Market Research", "Analysis", "Tech Industry", "Strategy"],
+      "experience": "3+ years research experience",
+      "portfolio": true,
+      "certification": true
+    },
+    "url": "https://www.freelancer.com/projects/",
+    "clientInfo": {
+      "name": "StrategyConsult Inc",
+      "rating": 4.9,
+      "reviews": 34,
+      "verified": true
+    },
+    "isActive": true,
+    "postedAt": "2024-01-06T00:00:00.000Z",
+    "expiresAt": "2024-02-03T00:00:00.000Z"
+  }
+]
+
+
+

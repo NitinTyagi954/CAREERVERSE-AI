@@ -1,0 +1,325 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "Google",
+    "source": "seed",
+    "description": "We are looking for a Frontend Developer Intern to join our team. You will work on building responsive web applications using React, JavaScript, and modern CSS frameworks. This is a great opportunity to learn from experienced developers and contribute to real-world projects.",
+    "salaryMin": 45000,
+    "salaryMax": 60000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "internship",
+    "tags": ["react", "javascript", "css", "html", "frontend", "web development"],
+    "reputationScore": 10,
+    "url": "https://careers.google.com/jobs/results/",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 0,
+        "max": 2,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree", "Computer Science"],
+      "skills": ["React", "JavaScript", "CSS", "HTML"]
+    },
+    "benefits": ["Health Insurance", "Learning Budget", "Flexible Hours"],
+    "isActive": true,
+    "postedAt": "2024-01-15T00:00:00.000Z",
+    "expiresAt": "2024-02-15T00:00:00.000Z"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "source": "seed",
+    "description": "Join our team as a Full Stack Developer and work on cutting-edge web applications. You'll be responsible for both frontend and backend development using modern technologies like Node.js, React, and cloud services.",
+    "salaryMin": 80000,
+    "salaryMax": 120000,
+    "salaryCurrency": "INR",
+    "remote": false,
+    "jobType": "full-time",
+    "tags": ["node.js", "react", "javascript", "full stack", "mongodb", "aws"],
+    "reputationScore": 10,
+    "url": "https://careers.microsoft.com/us/en/job/",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 2,
+        "max": 5,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["Node.js", "React", "JavaScript", "MongoDB", "AWS"]
+    },
+    "benefits": ["Health Insurance", "Stock Options", "Gym Membership"],
+    "isActive": true,
+    "postedAt": "2024-01-14T00:00:00.000Z",
+    "expiresAt": "2024-02-14T00:00:00.000Z"
+  },
+  {
+    "title": "Python Developer",
+    "company": "TCS",
+    "source": "seed",
+    "description": "We are seeking a Python Developer to join our development team. You will work on backend services, APIs, and data processing applications using Python, Django, and related technologies.",
+    "salaryMin": 60000,
+    "salaryMax": 90000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "full-time",
+    "tags": ["python", "django", "flask", "api", "backend", "sql"],
+    "reputationScore": 8,
+    "url": "https://www.tcs.com/careers",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 1,
+        "max": 4,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["Python", "Django", "Flask", "SQL", "REST API"]
+    },
+    "benefits": ["Health Insurance", "Provident Fund", "Transportation"],
+    "isActive": true,
+    "postedAt": "2024-01-13T00:00:00.000Z",
+    "expiresAt": "2024-02-13T00:00:00.000Z"
+  },
+  {
+    "title": "React Native Developer",
+    "company": "Infosys",
+    "source": "seed",
+    "description": "Looking for a React Native Developer to build cross-platform mobile applications. You will work with React Native, JavaScript, and mobile development best practices to create high-quality mobile apps.",
+    "salaryMin": 70000,
+    "salaryMax": 100000,
+    "salaryCurrency": "INR",
+    "remote": false,
+    "jobType": "full-time",
+    "tags": ["react native", "javascript", "mobile development", "ios", "android"],
+    "reputationScore": 8,
+    "url": "https://www.infosys.com/careers/",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 2,
+        "max": 5,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["React Native", "JavaScript", "Mobile Development", "iOS", "Android"]
+    },
+    "benefits": ["Health Insurance", "Provident Fund", "Meal Vouchers"],
+    "isActive": true,
+    "postedAt": "2024-01-12T00:00:00.000Z",
+    "expiresAt": "2024-02-12T00:00:00.000Z"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Amazon",
+    "source": "seed",
+    "description": "Join our Data Science team as an intern and work on machine learning projects, data analysis, and predictive modeling. You'll gain hands-on experience with Python, R, and various ML frameworks.",
+    "salaryMin": 40000,
+    "salaryMax": 55000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "internship",
+    "tags": ["python", "machine learning", "data science", "r", "statistics", "pandas"],
+    "reputationScore": 10,
+    "url": "https://www.amazon.jobs/en/",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 0,
+        "max": 1,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree", "Statistics", "Mathematics"],
+      "skills": ["Python", "R", "Machine Learning", "Statistics", "Pandas"]
+    },
+    "benefits": ["Learning Budget", "Mentorship", "Flexible Hours"],
+    "isActive": true,
+    "postedAt": "2024-01-11T00:00:00.000Z",
+    "expiresAt": "2024-02-11T00:00:00.000Z"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Wipro",
+    "source": "seed",
+    "description": "We are looking for a DevOps Engineer to manage our cloud infrastructure and deployment pipelines. You will work with AWS, Docker, Kubernetes, and CI/CD tools to ensure smooth deployments.",
+    "salaryMin": 90000,
+    "salaryMax": 130000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "full-time",
+    "tags": ["aws", "docker", "kubernetes", "devops", "ci/cd", "terraform"],
+    "reputationScore": 7,
+    "url": "https://careers.wipro.com/",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 3,
+        "max": 6,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"]
+    },
+    "benefits": ["Health Insurance", "Provident Fund", "Work from Home"],
+    "isActive": true,
+    "postedAt": "2024-01-10T00:00:00.000Z",
+    "expiresAt": "2024-02-10T00:00:00.000Z"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "HCL",
+    "source": "seed",
+    "description": "Join our design team as a UI/UX Designer and create beautiful, user-friendly interfaces. You will work with design tools like Figma, Adobe Creative Suite, and collaborate with developers to bring designs to life.",
+    "salaryMin": 50000,
+    "salaryMax": 80000,
+    "salaryCurrency": "INR",
+    "remote": false,
+    "jobType": "full-time",
+    "tags": ["ui/ux", "figma", "adobe", "design", "prototyping", "user research"],
+    "reputationScore": 7,
+    "url": "https://www.hcltech.com/careers",
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 1,
+        "max": 4,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree", "Design"],
+      "skills": ["Figma", "Adobe Creative Suite", "UI/UX Design", "Prototyping"]
+    },
+    "benefits": ["Health Insurance", "Design Tools License", "Creative Freedom"],
+    "isActive": true,
+    "postedAt": "2024-01-09T00:00:00.000Z",
+    "expiresAt": "2024-02-09T00:00:00.000Z"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Tech Mahindra",
+    "source": "seed",
+    "description": "We are seeking a Backend Developer to work on server-side applications and APIs. You will work with Node.js, Express, databases, and cloud services to build scalable backend systems.",
+    "salaryMin": 65000,
+    "salaryMax": 95000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "full-time",
+    "tags": ["node.js", "express", "mongodb", "backend", "api", "microservices"],
+    "reputationScore": 7,
+    "url": "https://www.techmahindra.com/en-in/careers/",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 2,
+        "max": 5,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["Node.js", "Express", "MongoDB", "REST API", "Microservices"]
+    },
+    "benefits": ["Health Insurance", "Provident Fund", "Learning Opportunities"],
+    "isActive": true,
+    "postedAt": "2024-01-08T00:00:00.000Z",
+    "expiresAt": "2024-02-08T00:00:00.000Z"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Flipkart",
+    "source": "seed",
+    "description": "Join our ML team and work on recommendation systems, computer vision, and natural language processing. You'll work with Python, TensorFlow, PyTorch, and large-scale data processing.",
+    "salaryMin": 100000,
+    "salaryMax": 150000,
+    "salaryCurrency": "INR",
+    "remote": false,
+    "jobType": "full-time",
+    "tags": ["python", "machine learning", "tensorflow", "pytorch", "nlp", "computer vision"],
+    "reputationScore": 9,
+    "url": "https://www.flipkartcareers.com/#!/",
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 3,
+        "max": 7,
+        "unit": "years"
+      },
+      "education": ["Master's Degree", "Computer Science"],
+      "skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "NLP"]
+    },
+    "benefits": ["Health Insurance", "Stock Options", "Research Budget"],
+    "isActive": true,
+    "postedAt": "2024-01-07T00:00:00.000Z",
+    "expiresAt": "2024-02-07T00:00:00.000Z"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Zomato",
+    "source": "seed",
+    "description": "We are looking for a Frontend Developer to join our web development team. You will work on building responsive web applications using React, TypeScript, and modern frontend technologies.",
+    "salaryMin": 70000,
+    "salaryMax": 110000,
+    "salaryCurrency": "INR",
+    "remote": true,
+    "jobType": "full-time",
+    "tags": ["react", "typescript", "javascript", "frontend", "web development", "css"],
+    "reputationScore": 8,
+    "url": "https://www.zomato.com/careers",
+    "location": {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    },
+    "requirements": {
+      "experience": {
+        "min": 2,
+        "max": 5,
+        "unit": "years"
+      },
+      "education": ["Bachelor's Degree"],
+      "skills": ["React", "TypeScript", "JavaScript", "CSS", "Frontend Development"]
+    },
+    "benefits": ["Health Insurance", "Meal Vouchers", "Flexible Hours"],
+    "isActive": true,
+    "postedAt": "2024-01-06T00:00:00.000Z",
+    "expiresAt": "2024-02-06T00:00:00.000Z"
+  }
+]
+
+
+
